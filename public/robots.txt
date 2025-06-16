@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://smam4makassar.sch.id
+
+# Sitemaps
+Sitemap: https://smam4makassar.sch.id/sitemap.xml

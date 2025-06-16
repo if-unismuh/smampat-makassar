@@ -1,1 +1,0 @@
-# smampat-makassar
